@@ -1,0 +1,12 @@
+# This is a placeholder for the thinking_animal.riv file
+# 
+# To add a real Rive animation:
+# 1. Visit https://rive.app
+# 2. Create or download a thinking animal animation
+# 3. Export as .riv file
+# 4. Replace this file with your .riv file named "thinking_animal.riv"
+# 5. Make sure your animation has a state named "idle"
+#
+# Until then, the app will use the fallback animated emoji
+
+PLACEHOLDER_FILE=true
